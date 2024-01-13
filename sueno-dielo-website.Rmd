@@ -1,0 +1,34 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE}
+#![Caption for the picture.](/Users/szautke19/projects/sueno-dielo/IMG_0090.jpg)
+```
+
+<center>
+  <font size="18">
+    <b><i> Sueño D'ielo Gourmet Shave Ice </i> </b> 
+  </font>
+</center>
+
+<center>
+  <font size="18">
+    Official Website Coming Soon
+  </font>
+</center>
+
+![](./img/IMG_0090.jpg)
+
+![](./img/sd_schedule.jpg)
+
+![](./img/sd_location.jpg)
+
+```{r pressure, echo=FALSE}
+
+```
+
